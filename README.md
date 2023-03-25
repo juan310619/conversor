@@ -26,3 +26,6 @@ mejoras en un futuro:
 conectar a una API para que diariamente se actualice automaticamente, reciclar codigo ya que se repite gran parte de codigo en las dos ventanas creadas por swing
 , animaciones.
 
+
+![videoconversor](https://user-images.githubusercontent.com/75445227/227682138-b4dea7c9-1964-4b91-913b-b7589e9f5f12.gif)
+
